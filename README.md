@@ -1,8 +1,5 @@
 ## Hi Friend, I Am Khoirul <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### I'm a Beginner Developer!
-👯 I’m looking to collaborate with other developer<br>
-⚡ Fun fact: I love Volly ball, finding bugs and discovering something new
 
 ### My Stats
 <p>
